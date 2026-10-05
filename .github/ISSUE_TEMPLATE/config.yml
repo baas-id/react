@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sales / Ventas
+    url: mailto:sales@reporting-pal.com
+    about: Plans, quotes and on-premise licensing.
+  - name: Support / Soporte
+    url: mailto:support@reporting-pal.com
+    about: Account and integration help.
